@@ -1,0 +1,16 @@
+{
+    "name": "maxlestage/php",
+    "description": "Projet quête composer",
+    "autoload": {
+        "psr-4": {
+            "Maxlestage\\Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "maxlestage",
+            "email": "maxlestage@icloud.com"
+        }
+    ],
+    "require": {}
+}
